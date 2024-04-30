@@ -1,3 +1,3 @@
 # .github
 
-*Community health files for the @esphome organization*
+*Community health files for the @improv-wifi organization*
